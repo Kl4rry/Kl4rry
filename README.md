@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a university student building web and desktop applications in rust.
+I am a university student building web and desktop applications in Rust and Javascript.
 - 🔭 I’m currently working on ...
   - [Simp](https://github.com/Kl4rry/simp) a simple a fast image viewer. 
 - 🌱 I’m currently learning graphics programming with [glium](https://github.com/glium/glium)
