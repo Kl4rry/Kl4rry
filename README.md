@@ -2,7 +2,7 @@
 I am a university student building web and desktop applications.
 - 🔭 I’m currently working on ...
   - [Simp](https://github.com/Kl4rry/simp) a simple a fast image viewer. 
-- 🌱 I’m currently learning opengl with [glium](https://github.com/glium/glium)
+<!-- - 🌱 I’m currently learning opengl with [glium](https://github.com/glium/glium)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kl4rry&layout=compact)](https://github.com/Kl4rry/github-readme-stats)
 
