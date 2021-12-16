@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I am a university student building web and desktop applications.
 - 🔭 I’m currently working on ...
   - [Simp](https://github.com/Kl4rry/simp) a simple a fast image viewer. 
